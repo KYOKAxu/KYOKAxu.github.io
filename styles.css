@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url(img/bac\ 4.png);
+  background-image: url(images/bac\ 4.png);
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@ body::after {
 
 /* Background-images */
 
-.content img {
+.content images {
   position: absolute;
   bottom: -12%;
 }
